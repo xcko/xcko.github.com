@@ -1,2 +1,0 @@
-# xcko.github.com
-blog
